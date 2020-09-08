@@ -1,0 +1,1 @@
+secret = "Hangman".upper()
