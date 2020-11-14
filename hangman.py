@@ -56,6 +56,6 @@ while checkSolved() == False and guessLeft > 0:
     print("Congrats, you won! -> word to find:", secret)
   elif guessLeft == 0:
     clearConsole()
-    print("That's bad, you lose :(")
+    print("That's bad, you lose :( -> word to find:", secret)
 
 
